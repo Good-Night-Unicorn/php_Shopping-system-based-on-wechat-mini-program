@@ -1,4 +1,4 @@
-## 基于php家具购物小程序(源代码+LW+PPT+数据库)
+## 基于php购物商城小程序(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
